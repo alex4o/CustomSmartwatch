@@ -1,0 +1,8 @@
+{
+    "terminal.integrated.env.linux": {
+        "PATH": "/home/alex4o/.platformio/penv/bin:/home/alex4o/.platformio/penv:/usr/local/bin:/usr/bin:/bin:/usr/local/sbin:/opt/android-sdk/platform-tools:/opt/android-sdk/tools:/opt/android-sdk/tools/bin:/usr/lib/emscripten:/usr/lib/jvm/default/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/home/alex4o/.gem/ruby/2.3.0/bin:/tools/bin:/home/alex4o/Source/go-workspace/bin"
+    },
+    "files.associations": {
+        "initializer_list": "cpp"
+    }
+}

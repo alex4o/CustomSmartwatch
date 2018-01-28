@@ -1,0 +1,13 @@
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.pioenvs
+.piolibdeps
+.vscode/c_cpp_properties.json
+.vscode/launch.json

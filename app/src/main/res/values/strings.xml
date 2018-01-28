@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">CustomSmartwatch</string>
+    <string name="title_activity_connected">ConnectedActivity</string>
+</resources>
