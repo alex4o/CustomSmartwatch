@@ -7,7 +7,7 @@ The project consists of two parts. The android app that is supposed to send draw
 TODO:
 
 - [ ] Support for sending and drawing images.
-- [ ] Convering android Bitmaps to images that can be drawn on monochrome displays.
+- [ ] Converting android Bitmaps to images that can be drawn on monochrome displays.
 - [ ] Integrating with messeging/facebook/discord services.
 - [ ] Paging(The ability to have multiple screens controled with buttons).
 - [ ] Have fun.
